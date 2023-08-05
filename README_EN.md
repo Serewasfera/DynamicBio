@@ -1,7 +1,7 @@
-#DynamicBio
+# DynamicBio
 Set yourself a dynamic status in Scratch!
 
-###RUS:
+### RUS:
 Run the program, close the program and open the config.ini file created in the program folder.
 Configure the program through config.ini.
 
